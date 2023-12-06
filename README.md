@@ -1,4 +1,4 @@
-# Hello, I'm Jason Elijah Lahoylahoy 👋
+# Hello, I'm [Jason Elijah Lahoylahoy](https://github.com/JasonElijahLahoylahoy) 👋
 
 I am a passionate coder with a strong foundation in database management. I love taking on challenging problems and creating elegant solutions. My journey in technology began when I enrolled in the BS Information Technology program.
 
