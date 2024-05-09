@@ -16,9 +16,11 @@ I am a passionate coder with a strong foundation in database management. I love 
   [View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9769C06737D92F637568FDA82FD9684FDE10E6693F99F920B12CAEF24F48B00F)
 - **SQL and Relational Databases 101**
   [View Certification](https://courses.cognitiveclass.ai/certificates/7f509d989dde43dabb3e74584496049e )
+- **NoSQL and DBaaS 101**
+  [View Certification](https://courses.cognitiveclass.ai/certificates/372f2b6eb7d045b98b67d1dd73b683ca)
 
 ## Skills 💻
-- **Programming:** Java, JavaScript
+- **Programming:** Java, JavaScript, Python
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
